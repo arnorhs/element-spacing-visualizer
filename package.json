@@ -1,5 +1,5 @@
 {
-  "name": "spacing visualizer",
+  "name": "spacing-visualizer",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -9,5 +9,9 @@
   },
   "browserslist": [
     "since 2018-10-09"
-  ]
+  ],
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  }
 }

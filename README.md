@@ -7,5 +7,7 @@ for visualizing the margins between them with margin collapsing
 
 ## run
 
-yarn && yarn parcel index.html
+```sh
+yarn && yarn start
+```
 
